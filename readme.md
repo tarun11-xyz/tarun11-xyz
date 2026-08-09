@@ -3,7 +3,7 @@
   <img
     src="https://raw.githubusercontent.com/tarun11-xyz/tarun11-xyz/main/search/AnukhraHunt.svg"
     alt="Anukhra Cryptic Hunt"
-    width="100%"
+    width="1100"
   />
 </p>
 </a>
